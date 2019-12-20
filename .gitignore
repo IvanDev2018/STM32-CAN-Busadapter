@@ -1,4 +1,5 @@
 /.settings/
 /Debug/**
 /Release/**
+*.launch
 !*.bin
