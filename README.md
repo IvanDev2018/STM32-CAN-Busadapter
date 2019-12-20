@@ -11,7 +11,9 @@ Support CAN speed:
 * 100Kbit (CAN_BS1_16TQ; CAN_BS2_3TQ);
 * 125Kbit (CAN_BS1_13TQ; CAN_BS2_2TQ);
 * 250Kbit (CAN_BS1_13TQ; CAN_BS2_2TQ);
-* 500Kbit (CAN_BS1_5TQ; CAN_BS2_2TQ).
+* 500Kbit (CAN_BS1_5TQ; CAN_BS2_2TQ);
+* 800Kbit (not support);
+* 1Mbit (not support).
 
 ![Pinout](doc/pinout.png)
 
